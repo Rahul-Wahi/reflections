@@ -18,3 +18,7 @@ What happens when you initialize a repository? Why do you need to do it?
 		When you need to experiment with you code but not sure about this(it will work or not) so you make extra branch for this.
 		Make changes in this branch.Also you can continue updating you code in master branch and later on
 		you can merge the experimental code(if working fine) with updated master branch code.   
+
+	How do the diagrams help you visualize the branch structure?
+		Diagram will show the at what points we add new branch.Also any unreachable node by git log can be shown in this diagram.
+		

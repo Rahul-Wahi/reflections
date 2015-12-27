@@ -12,3 +12,9 @@ What happens when you initialize a repository? Why do you need to do it?
 	How can you use the staging area to make sure you have one commit per logical change?
 	   If one logical change involve multiple files than we can add that files into
 	   staging area and than commit them.
+
+	What are some situations when branches would be helpful in keeping your history organized? How would branches help?
+	
+		When you need to experiment with you code but not sure about this(it will work or not) so you make extra branch for this.
+		Make changes in this branch.Also you can continue updating you code in master branch and later on
+		you can merge the experimental code(if working fine) with updated master branch code.   

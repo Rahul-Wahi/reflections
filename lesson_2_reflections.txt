@@ -3,3 +3,5 @@ What happens when you initialize a repository? Why do you need to do it?
 	.git directory is createdcontaining the metadata of commited files.
 	To commit the files at different point of time so that we recover to
 	any version we want.
+
+	How is the staging area different from the working directory and the repository? What value do you think it offers?

@@ -22,3 +22,7 @@ What happens when you initialize a repository? Why do you need to do it?
 	How do the diagrams help you visualize the branch structure?
 		Diagram will show the at what points we add new branch.Also any unreachable node by git log can be shown in this diagram.
 		
+	What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
+		All the changes made in both the branches will combined into single version.
+		We represent it in diagram to get the better view of branch structure 
+			
